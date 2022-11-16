@@ -24,4 +24,5 @@ cd DrunkCracker
 
 
 
-python drunk_Cracker_enc_enc.py
+
+python drunkCracker_enc_enc.py
