@@ -20,8 +20,8 @@ pip install bs4
 
 git clone https://github.com/DRUNK01/DrunkCracker.git
 
-cd DrunkCracker
 
+cd DrunkCracker
 
 
 
