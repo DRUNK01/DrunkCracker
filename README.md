@@ -34,7 +34,7 @@ cd DrunkCracker
 
 
 
-python drunkCracker_enc_enc.py
+python drunkCracker.py
 
 
 ````
